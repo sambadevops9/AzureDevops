@@ -1,0 +1,1338 @@
+                                   Drag and Drop
+
+1. Your company intend to subscribe to an azure support plan.
+   1.Basic, 2. Developer, 3.Standard, 4. Professional Direct
+
+2. 1.Scalability increase the compute capacityof apps in the cloud
+   2.High availability provide a continues user experience with no apparent
+   3.Geo-distribution Ensure that users always havethe best experience by deploying apps to all the regions where there are users.
+
+3. 1.Azure Policy, restrict which virtual machine types can be created in asubscription.
+   2.Azure tags, identify azure resources that are associated with specific cast centers.
+   3.Azure Blueprints, deploy a complete azure application environment including resources configuration and role assignments.
+
+4. 1.Scalability, Resource can be provisioned dynamically to meet changing demands.
+   2.Geo-distribution, Applications and data can be deployed to multiple regions.
+   3.Agility, applications can be developed, tested, and launvhed rapidly
+
+5. 1.Azure Synapse Analytics, Provides a cloud-based Enterprise data warehouse (EDW)
+   2.Azure Machine Learning, Uses past trainings toprovide predictions that have high probability.
+   3.Azure functions, Provides serverless computing functionalities.
+   4.Azure loT Hub, processes data from millions of sensors.
+
+6. 1.Azure virtual machines, provide operating system virtualization.
+   2.Azure container instances, provide portable environment for virtualized appliactions
+   3.Azure app service, used to build deploy,and scale web apps
+   4.azure Functions, provide a platform for serverless code
+
+7. 1.Fault tolerance, A cloud service that remains avaliable after a failure.
+   2.Disaster recovery, A cloud service that can be recovered after a failure.
+   3.Dynamic scalability, A cloud service that performs quickly when demand increases.
+   4.Low latency, A cloud service that can be accessed quickly from the internet.
+
+8. 1.public cloud, No requried capital expenditure.
+   2.Private cloud, Provides completed control over security.
+   3.Hybrid cloud, provides a choice to use on-premises or cloud-based resorces.
+
+9. 1.IoT Hub, A managed service that provides bidirectional communication between IoTdevices and azure.
+   2.IoT Central, A fully managed software as a service(SaaS) solution to connect, monitor, and manage IoT devices at scale.
+   3.Azure Sphere, A software and hrdware solution that provides communication and security feature for IoT devices.
+
+10.1.Azure functions, Provide the platform for serverless code
+   2.Azure databricks, A big data analysis service for macine learning.
+   3.Azure application insights, detects and diagnoses anomalies in web apps
+   4.Azure app service, Hosts web apps
+
+11.1.Azure devops, an integrated solution for the development of code.
+   2.Azure advisor, A tool that provides guidance and recommendations to improve an azure environment.
+   3.Azure Cognitive service, A simplified tool to build intelligent AI application.
+   4.Azure application Insights, Monitors web applications.
+
+12.1.Azure Sql Database, a managed relational cloud  database service.
+   2.Azure sql synapse Analytics, A cloud based service that leverage massively parallel processing (MPP)-----
+   3.Azure data lake analytics, Can run massively parallel data transfermation and processing programs across petabytes of data.
+   4.Azure HDinsight, An open source frame work for the distributed processing and analysis of big data clusters.
+
+13.1.Azure Bot services, provide a digital online assistant that provides speech support.
+   2.Azure machine learning, uses past trainings to provide predictions that have high probability.
+   3.Azure Functions, provides serverless computing functionalities.
+   4.Azure IoT Hub, process data from millions of servers.
+
+14. 1.ISO, an organiztion that defines international standards across all industries.
+    2.NIST, an organization that defines standards used by the united states government.
+    3.GDPR, A European policy that regulates data privacy and data protection.
+    4.Azure Government, A dedicated public cloud for federal and state agencies in the united states
+
+15.1.Scalability, resources can be provisioned dynamically to meet changing demanda.
+   2.Geo-distribution, Application and data can be deployed to multiple regions.
+   3.agility applications can be developed, tested, and launched rapidly.
+
+--------------------------------------------------------------------
+                                          Yes---No
+
+1. 1.Microsoft SQL Server 2019 installed on an azure virtual machine is an example of platform as a service (NO)
+   2.Azure SQL database is an example of platform as a service(Pass) ---(Yes)
+   3.Azure cosmos DB is an examle of software as a service(Saas) -------(No)
+
+2. 1.Azure files is an example of infrastructure as a service(Iaas) (NO)
+   2.A DNS server that runs on an Azure virtual machine is an example of platform as a service (NO)
+   3.Microsoft intune is an example of software as a service(Saas) (Yes)
+
+3. 1.cloud computing provide elastic scalability (Yes)
+   2.Customers can minimize capitalexpendature (Yes)
+   3.Cloud computing leverages virtualization to provied service to multiple customers simultanrously(Yes)
+
+4. 1.A platform as a service(Pass) solution that hosts web apps in azure provides full control of the operating system that host applications. (No)
+   2.A platform as a service(Pass) solution that hosts web apps in azure provides the ability to scale the platform automatically (Yes)
+   3.A platform as a service(Pass) solution that hosts web apps in azure provides proficianal developement services to continously add features to custom applications (Yes)
+
+5. 1.Azure provides flexibility between capital expendature (CapEx) and perational expendature(OpEx) (Yes)
+   2.If you create twovirtual machines that use the B2S size, each virtual machine will always generate the same monthly costs (NO)
+   3. when an azure virtual machine stoped you continue to pay storage costs associated to the virtual machine (yes)
+
+6. 1.To achive a hybrid cloud model,a company must always migrate from a private cloud (NO)
+   2.A Company can extend the capacity of its internal network by using the public cloud (Yes)
+   3.In a public cloud model, only guest users at your company can access the resources in the cloud (No)
+
+7. 1.To implement a hybrid cloud model, a company must have an internal network (Yes)
+   2.A company can extend the computing resources of its internal network by using a hybrid cloud (yes)
+   3.in a public cloud model, only guest users at your company can access the resources in the cloud (No)
+
+8. 1.Platform as a service (PaaS) solution provides full control of operating systems that host applications (No)
+   2.Platform as a service (PaaS) solution provides additinal memory to apps by changing pricing tiers.(Yes)
+   3.Platform as a service (PaaS) solution can automatically scale the number of instances.(Yes)
+
+9. 1.Azure pay-as-you-go pricing is an example of CapEx (NO)
+   2.Paying electricity for your datacenter is an example of OpEx (Yes)
+   3.Deploying your own datacenter is an example  of CapEx (Yes)
+
+10. 1.A company can extend a private cloud by adding its own physical servers to the public clod (No)
+    2.To build a hybrid cloud, you must deploy resources to the public cloud (Yes)
+    3.A private cloud must be disconnected from the internet(No)
+
+11. 1.Building a data center infrastructure is an example of operational expendature (OpEx) costs (No)
+   2.Monthly salries for technical personnel are an example of operationalexpenditure (OpEx) costs(Yes)
+   3.Leasing software is an example of operational expenditure (OpEx) costs (Yes)
+
+12. 1.with software as a service(Saas), you must apply software updates(NO)
+    2.with infrastructure as a service(IaaS), you must install the software that you want to use (Yes)
+    3.Azure backup is an example of platform as a service (PaaS) (Yes)
+
+13. 1.you can create a resource group inside of an other resource group (No)
+    2.An Azure virtual machine can be in multiple resource groups (NO)
+    3.A resource group can contain resources from multiple Azure regions (Yes)
+
+14. 1.Microsoft SQL server 2019 installed on an azure virtual machine is an example of platform as a service(PaaS) (NO)
+    2.Azure SQL database is an example of platform as a service(Pass) (Yes)
+    3.Azure cosmos db is an example of software as a service(SaaS) (No)
+
+15. 1.Azure resource can only access other resource in the same resource group (No)
+    2.If you delete resource group, all the resource in the resource group will be deleted (Yes)
+    3.A resource group can contain resources from multiple azure regions. (Yes)
+
+16. 1.An azure subscription can be associated to multiple azure active directory (Azure Ad) tenants (NO)
+    2.you can change the azure active directory (Azure AD)tenant to which an azure subscription is associated (Yes)
+    3.when an azure subscription expaires,the associated azure active directory(Azure AD)tenant is deleted automatically (No)
+
+17.1.Asingle Microsoft account can be used to manage multiple azure subscriptions(Yes)
+   2.Two azure subscriptions can be merged into a single subscription (No)
+   2.A company can use resources from multiple subscriptions. (Yes)
+
+18.1.Each azure subscription can contain multiple account administrators (No)
+   2.Each Azure subscripyion can be managed by using a microsoft account only (No)
+   3.An azure resource group contains multiple azure subscriptions (No)
+
+19.1.Availability zonescan be implemented in all azure regions (No)
+   2.Only virtual machines that run windows server canbe created in availability zones (No)
+   3.availability zones are used to replicate data and applications to multiple regions (No)
+
+20.1.all the azure resource deployed to a resource group must use the same azure region(No)
+   2.If you assign a tag to aresource group ,all the azure resources in that resource group are assigned to the same tag (No)
+   3.If you assign permissions for a user to manage a resource group, the user can manage all the azure resources in that resource group. (yes)
+
+21.1.Data that is stored in an azure storage account automatically has at least three copies. (Yes)
+   2.All data that is copied to an Azure storage account is backed up automatically to another azure data center(No)
+   3.An azure storage account can contain up to 2TB of data and one million files (No)
+
+22.1.If you have azure resource deployed to every region, you can implement availability zones in all the regions(No)
+   2.only virtual machines that run windows server can be created in availability zones(No)
+   3.availability zones are used to replicate data and applications to multiple regions(No)
+
+23.1.North america reprasented by a single azure region (No)
+   2.Every azure region has multiple datacenters (No)
+   3.data transfers between Azure services located in different azure regions are always free (No)
+
+24.1.A windows virtual desktop session host can run windows 10 only (No)
+   2.A windows virtual desktop host pool that includes 20 session hosts support a maximum of 20--- (No)
+   3.windows virtual desktop supports desktop and appvirtualization (yes)
+
+25.1.You can use availability zones in azure to protect azure virtual machines from  a datacenter failure(Yes)
+   2.you can use availability zones in azure to protect azure virtual machines from a region failure (No)
+   3.you can use availability zones in azure to protect azure managed disks from a datacenter failure(Yes )
+
+26.1.To use azure active Directory (Azure Ad) credentials to sign in to a computer that run windows 10. the computer must be joined to azure AD (Yes)
+   2.Users in azure active directory (Azure Ad) are organized by using resource groups (No)
+   3.Azure active directory (Azure AD) groups support dynamic membership rules (Yes)
+
+27.1.Azure monitor can monitor the performnce of on-premises computers (Yes)
+   2.Azure monitor can send alerts to azure active directory securoty groups(No)
+   3.Azure monitor can trigger alerts based on data in an azure log analytics workspace (yes)
+
+28.1.from azure service health, an administrator can view the health of all the services in an azure environment (yes)
+   2.from azure service health, an administrator can create a rule to be alerted if an azure service fails (Yes)
+   3.From azure service health, an administrator can prevent a service failure (No)
+
+29.1.Azure advisor can generate a list of azure virtual machines that are protected by azure Backup (No)
+   2.If you implement the security recommendations provided by Azure Advisor, your company's secure score will decrease (No)
+   3.To maintain microsoft support, you must implement the security recommendations provided by azure advisor with in a period of 30 days(No)
+
+30.1.Azure advisor provides recommendations on how to improve the security of an azure active directory(Ad) environment(NO)
+   2.Azure advisor provides recommendations on how to reduce the cost of running azure virtual machines (Yes)
+   3.Azure advisor provides recommendations on how to configure the network settings on azure virtual machines (No)
+
+31.1.Azure firewall will encrypt all the network traffic sent from azure to the internet(No)
+   2.A network security group(NSG) will encrypt all the network traffic sent from azure to the internet(NO)
+   3.Azure virtual machines that run windows server 2016 can encrypt network traffic sent to the internet(Yes)
+
+32.1.Azure security center can monitor azure resources and on-premises resources(Yes)
+   2.All azure security center features are free (No)
+   3.From azure security center you can download a regulatry compliance report (Yes)
+
+33.1.you can associate a network security group(NSG)to a virtual network subnet(Yes)
+   2.you can associate a network security group(NSG)to a virtual network (No)
+   3.you can associate a network security group(NSG)to a virtual network interface(Yes)
+
+34.1.you can create custom azure rolesto control access to resources (Yes)
+   2.A user account can be assigned to multiple azure roles (yes)
+   3.A resource group can have the owner role assigned to multiple users(Yes)
+
+35.1.you can create group polices in azure active directory (Azure AD) (No)
+   2.you can join windows 10 devices to azure avtive directory(Azure AD) (yes)
+   3.you can join android devices to azure directory(Azure AD) (No)
+
+36.1.general data protection regulation(GDPR)defines data protection and privacy rules(Yes)
+   2.general data protection regulation(GDPR) applies to companies that offer goods (Yes)
+   3.Azure can be used build a general data protection regulation(GDPR)-compliant infrastructure (yes)
+
+37.1.you can add an azure resource manager template to an azure blueprint (Yes)
+   2.you can assign an azure blueprint to a resource group (No)
+   3.you can use azure blueprints to grant permissions to a resource (yes)
+
+38.1.azure china is operated by microsoft (No)
+   2.Azure Government is operated by microsoft (Yes)
+   3.Azure Government is available only to USgov (yes)
+
+39.1.an azure resource can have multiple delete locks (Yes)
+   2.An azure resource inherits locks from its resource group(Yes)
+   3.if an azure resource has a read-only lock,you can add a delete lock to the resource (Yes)
+
+40.1.Authorization to access azure resources can be provided only to azure active directory (Azure AD)users (NO)
+   2.identities stored in azure active dirctory(Azure AD) third-party cloud service and on-premises active dircetory can be used to access azure (Yes)
+   3.Azure has built-in authentication and authorization services that provide secure access to azure resources(Yes)
+
+41.1.Identities stored in an on-premises active directory can be synchronized to azure active directory(Azure Ad) (Yes)
+   2.Identities stored in azure active directory (Azure AD), third-party cloud services, and on-premises active directory can be used to access azure (Yes)
+   3.Azure has built-in authentication and authorization services that provide secure access to azure (Yes)
+
+42.1.Azure active directory(Azure AD)requries the implementation of domain controllers on azure virtual machines(No)
+   2.Azure active directory(Azure AD) provides authentication services for resources hosted in azure and microsoft365(yes)
+   3.Each user account in azure active directory(Azure AD)can be assigned only one license(yes  )
+
+43.1.To implement an azure multi-factor authentication(MFA)solution you must sync on-premises identities to the cloud (NO)
+   2.Two valid methods for azure multi-factor authentication(MFA) are picture identification and a passport number (NO)
+   3.Azure Multi-Factor authentication(MFA) can be requried for administrative and non-administrative user accounts(Yes)
+
+44.1.You can configure the azure active directory (Azure AD) activity logs to appear in azure monitor(Yes)
+   2.From azure monitor, you can monitor resources across multiple azure subscriptions(yes)
+   3.From azure monitor, you acn create alerts (yes)
+
+45.1.storing 1 TB of data in azure Blob storage will always cost the same,regardless of the azure region in which the data is located (No)
+   2.when you use a general-purpose v2 azure storage acount, you are only charged for the amount of data that is stored. all read and write operations are free (No)
+   3.Transferring data between azure storage accounts in different azure regions is free (No)
+
+46.1.In azure active directory premium P2, at least 99.9 percent availability is guaranteed (Yes)
+   2.The service Level agreement(SLA) for azure active Directory premium P2 is the same as the SLA for Azure Active Directory free (No)
+   3.All paying azure customers receive a credit if their monthly uptime percentage is below the guaranted amount in the service level agreement(SLA) (Yes)
+
+47.1.adding resource group in an azure subscription generates additional costs (No)
+   2.copying 10 GB of data from azure from an on-premises network over a VPN generates additional azure data transfer costs(No)
+   3.copying 10 GB of data from azure to an on-premises network over a VPN generates additional  azure data transfer costs (Yes)
+
+48.1.If your company uses an azure free acount, you will only be able to use a subset of azure service (Yes)
+   2.all azure free accounts expire after a specific period (Yes)
+   3.You can create up to 10 azure free acounts by using the same microsoft account (NO)
+
+49.1.all azure service in private preview must be accessed by using a separarate azure portal (No)
+   2.Azure services in public preview can be used in production environments (Yes)
+   3.Azure services in public preview are subject to a service level agreement(SLA) (NO)
+
+50.1.A standard support plan is included in an azure free acount (No)
+   2.A premier support plan can only be purchased by companies that have an enterprise(Yes)
+   3.Support from MSDN forms is only provided to companies that have a pay-as-you-go subscription(No)
+
+51.1.A user who is assigned the owner role can transfer ownership of an azure subscription(No)
+   2.you can convert the azure subscription of your company from free trial to pay-as-you-go (Yes)
+   3.the azure spending limit is fixed and cannot be increased or decreased(Yes)
+
+52.1.with azure reservations, you pay less for virtual machines than with pay-as-you-go pricing (Yes)
+   2.Two azure virtual machines that use the B2S siza have the same monthly costs (No)
+   3.when an azure virtual machine is stopped, you continue to pay storage costs for the virtual machine (Yes)
+
+53.1.By creating additional resource groups in an azure subscription, additional costs are incurred(No)
+   2.By copying several gigabita of data to azure from an on-premises network over a vpn, additional data transfer costs are incurred (No)
+   3.By copying several GB of data from azure to an on-premises network over a VPN, additional data transfer costs are incurred (Yes)
+
+54.1.most azure services are introduced in private preview before being introduced in public preview and then ingeneral availability (yes)
+   2.Azure services in public preview can be managed only by using the azure CLI (No)
+   3.the cost of an azure service in private preview decreases when the service becomes generally available(No)
+
+55.1.An azure free account has aspending limit (Yes)
+   2.an azure free account has a limit of 2TB of data that can be uploaded to azure (No)
+   3.An azure free account can contain an unlimited number of web apps (No)
+
+56.1.An azure service in private preview is released to all azure customers(No)
+   2.an azure service in public preview is released to all azure customers (yes)
+   3.An azure service in general availability is released to a subset of azure customers (No)
+
+57.1.with a consumption based plan, you pay a fixed rate for all data sent to or from virtual machines hosted in the cloud(No)
+   2.with a consumption based plan, you reduce overall costs by paying only for extra capacity when it is reuried(Yes)
+   3.serverless computing is an example of a consumtion-based plan(Yes)
+
+58.1.the cost os azure resources can vary between regions(yes)
+   2.an azure resevation is used to reserve server capacity at a specific data center(yes)
+   3.you can stop an azure sql database instance to decrease costs(No)
+
+59.1.the service level agreement(SLA)guaranteed uptime for paid azure services is at least 99.9(Yes)
+   2.Companies can increase the service level agreement(SLA)guaranteed uptime by adding azure resources to multiple regions(Yes)
+   3.Companies can increase the service level agreement(SLA)guaranteed uptime by purchasing multiple (No)
+
+60.1.from the azure portalyou can distinguish between service that are generally available and service that are in public preview (Yes)
+   2.after an azure service becomes generally available, the service is no longer updated with new features(No)
+   3.when you create azure resources for a service in public preview, you must recreate the resources once the service becomes generally available (No)
+
+61.1.when using an azure expressroute connection, inbound data traffic from an on-premises network to azure is always free(yes)
+   2.outbound data trafic from azure to an on-premises network is always free(No)
+   3.Data traffic between azure services within the same azure region is always free(Yes)
+
+62.1.you must have physical serversto use cloud computing (No)
+   2.you must have internet connectivity to use cloud computing(Yes)
+   3.the costs to increase cloud computing capacity are less than the costs to increase the computing capacity of an on-premises datacenter(yes)
+
+63.1.A company can extend an internal network by adding its own physical servers to the public cloud (No)
+   2.A private cloud must be disconnected from the internet (No)
+   3.part of hybrid cloud is the public cloud (Yes)
+----------------------------------------------------------------------
+ 
+
+
+1. which are two benfits of cloud computing?
+   1.enable the rapid provisioning of resources
+   2.shift capital expenditures(CAPEX) to operating expenditures(OPEX)
+
+2. What is a feature of an azure virtual network?
+   D.isolation and segmentation
+
+3. Geo-distribution enables Azure resources to be deployed close to users.
+   ----------------
+
+4. which cloud computing benfit provide continuous user access to a cloud-based application with minimal downtime?
+   D.high availability
+
+5. you need to purchase a third-party virtual security appliance that you will deploy to an azure subscription.
+   C. Azure Marketplace
+
+6. Azure site Recovery provides disaster recovery for virtual machines.
+                                -----------------
+7. you have an accounting appliaction named App1 that usesa legacy database you planto move app1 to the cloud.
+   B. infrastructure as a service (IaaS)
+
+8. when you are implementing a software as a service(Saas) solution, configuration the SaaS solution you are responsible for.
+                                                                     -------------------------------
+9. An azure web app that queries an on-premises microsoft SQL server is an example of a hybrid cloud.
+                                                                                        ------
+10. A Microsoft SQL server database that is hosted in the cloud and has software updates managed by azure is an example of Platfotm as a service(PaaS)
+                                                                                                                           ---------------------------
+11. which term reprasents the ability to increase the coputing capacity of a virtual machine by adding memory or CPUs?
+    B. Vertical scaling 
+
+12. you need to manage containers. which two services can you use?
+    D. Azure Container instances
+    E. Azure Kubernetes Service(AKS)   
+
+13. You have an Azure environment that contains 10 web apps. to which url should you connect.
+    https://portal.azure.com
+
+14. you need to identify which blades in the azure portal must be used to perform.
+    
+    1.Monitor the health of azure services (Monitor)
+    2.Browseavaliable virtual machine images (Marketplace)
+    3.View security recommendations (Advisor)
+
+15. you have an on-premises application thet sends email notifications automatically based on a role.
+    you paln to migrate the application to azure.
+    you need to recommend a serverless computing solution for the application.
+    C. a logic app
+
+16.you planto deploy a website to Azure. the website will be accessed by users worldwide and will host large video files.
+   you need to recommend which azure featuremust be used to provide the best video playback experience.
+   C. a content delivery network (CDN)
+
+17.your company plans to deploy several million sensors that will upload data to azure.
+   you need to identify which azure resorces must be created to support the planned solution.
+   A.Azure Data Lake
+   B.Azure loT Hub
+
+18.you have an azure web app.
+   you need to manage the settings of the web app from an iPhone.
+   what sre teo Azure management tools that you can use?
+   B. the Azure portal
+   c. Azure Cloud Shell
+
+19.your company plans to deploy an Arificial Intelligence (AI) solution in Azure.
+   what should the company use to build, test, and deploy predictive analytics solutions?
+   B. Azure Machine Learning Designer
+
+20.what can you use to automatically send an alert if an administratoran azure virtual machine?
+   C. Azure Monitor
+
+21.you have an azure environment.
+   you need to create a new Azure virtual machine from a tablet that runs the android operating system.
+   A.Use Bash in azure Cloud shell.
+   B.Use Powershell in Azure cloud shell.
+   E.Use the Azure portal.
+
+22.A team of developer at your company plans to deploy and then remove 50 virtual machines each week all the virtual machines are configured by using Azure.
+   B. Azure DevTest Labs
+
+23. Azure Resource manager templates provide a common patform for deploying objects toa cloudinfrastructure and for implementing consistency across the azure environment.
+    ----------------------------------------
+
+24. what does a customer provide in a software as aservice(SaaS) modal?
+    A.Application Data
+
+25.you create a resource group named RG1 in azure resource manager.
+   ou need to prevent the accidental deleation of te resources in RG1.
+   6.Locks 
+
+26. A support plan solution that gives you best practice information, health status and notification and 24/7 access to billing information at the lowest possible cost is a standers support plan.
+    C. Basic
+
+27. what is guarantteed in an azure service level agreement (SLA) for virtual machines?
+    A. uptime
+
+28.what is requried to use Azure Cost Management?
+   D. a pay-as-you-go subscription
+
+29.your copmany has an azure subscription that contains resources in several regions.
+   you need to ensure that administrators can onlycreate resource in those regions.
+   B. an azure ploicy
+
+30.you need to ensure that when azure active directory(Azure AD) users connect to azure AD from the internet by using anonymous IP address, The users are prompted automatically to change their password.
+   D.Azure AD Identity Protection
+
+31. To what should an application connect to retrieve security tokens?
+    D. an azure key valut
+
+32.you have an on-premises network that contains several servers.
+   you plan to migrate all the servers to azure.
+   you need to recommend a solution to ensure that some of the servers are avaliable if a single azure data center goes offline for an extend period
+   A. fault tolerance
+
+33.An organization that hosts its infrastrature in the public cloud no longer requires a data center.
+                                                -------------------
+34.what are two characteristics of the public cloud ?
+   D. metered pricing
+   E. self-service management
+
+35.when planing to migrate a public website to azure, you must plan to pay monthly usage costs.
+                                                                       ------------------------
+36.Your company plans to migrate all its data and resources to Azure.
+   The company's migration plan states that only Platform as a Service (PaaS) solutions must be used in Azure.
+   You need to deploy an Azure environment that meets the company migration plan.
+   Solution: You create an Azure App Service and Azure SQL databases.
+   A. Yes
+
+37.Your company plans to migrate all its data and resources to Azure.
+   The company's migration plan states that only Platform as a Service (PaaS) solutions must be used in Azure.
+   You need to deploy an Azure environment that meets the company migration plan.
+   Solution: You create an Azure App Service and Azure virtual machines that have Microsoft SQL Server installed
+   B. NO
+
+38.Your company plans to migrate all its data and resources to Azure.
+   The company's migration plan states that only Platform as a Service (PaaS) solutions must be used in Azure.
+   You need to deploy an Azure environment that meets the company migration plan.
+   Solution: You create an Azure App Service and Azure Storage accounts.
+   A. Yes
+
+39.Your company hosts an accounting application named App1 that is used by all the customers of the company.
+   App1 has low usage during the first three weeks of each month and very high usage during the last week of each month.
+   Which benefit of Azure Cloud Services supports cost management for this type of usage pattern?
+   C.elasticity
+
+40.You plan to migrate a web application to Azure. The web application is accessed by external users.
+   You need to recommend a cloud deployment solution to minimize the amount of administrative effort used to 
+   manage the web application.
+   What should you include in the recommendation?
+   B. Platform as a Service (PaaS)
+
+41.Azure virtual machines Infrastructure as aservice (IaaS)
+                          ---------------------------------
+   Azure SQL Databse platform as a service(PaaS)
+                     ---------------------------
+42.You have an on-premises network that contains 100 servers.
+   You need to recommend a solution that provides additional resources to your users. The solution must 
+   minimize capital and operational expenditure costs.
+   D. a hybrid cloud
+
+43.You plan to migrate several servers from an on-premises network to Azure.
+   What is an advantage of using a public cloud service for the servers over an on-premises network?
+   D. The public cloud is a shared entity whereby multiple corporations each use a portion of the resources in the cloud
+
+44.In which type of cloud model are all the hardware resources owned by a third-party and shared between multiple tenants?
+   C. public
+
+45.You have 1,000 virtual machines hosted on the Hyper-V hosts in a data center.
+   You plan to migrate all the virtual machines to an Azure pay-as-you-go subscription.
+   You need to identify which expenditure model to use for the planned Azure solution.
+   A. operational
+
+46.Your company has an on-premises network that contains multiple servers.
+   The company plans to reduce the following administrative responsibilities of network administrators:
+   ✑ Backing up application data
+   ✑ Replacing failed server hardware
+   ✑ Managing physical server security
+   ✑ Updating server operating systems
+   ✑ Managing permissions to shared documents
+  The company plans to migrate several servers to Azure virtual machines.
+  You need to identify which administrative responsibilities will be eliminated after the planned migration.
+  A. Replacing failed server hardware
+  C. Managing physical server security
+
+47.You plan to provision Infrastructure as a Service (IaaS) resources in Azure.Which resource is an example of IaaS?
+   B. an Azure virtual mchine
+
+48.To which cloud models can you deploy physical servers?
+   A. private cloud and hybrid cloud only
+
+49.You have 50 virtual machines hosted on-premises and 50 virtual machines hosted in Azure. The on-premises 
+   virtual machines and the Azure virtual machines connect to each other.
+   Which type of cloud model is this?
+   A. hybrid
+
+50.Your company plans to migrate all its data and resources to Azure.
+   The company's migration plan states that only Platform as a Service (PaaS) solutions must be used in Azure.
+   You need to deploy an Azure environment that meets the company migration plan.
+   Solution: You create Azure virtual machines, Azure SQL databases, and Azure Storage accounts.
+   Does this meet the goal?
+   B. NO
+
+51.Your company plans to deploy several custom applications to Azure. The applications will provide invoicing 
+   services to the customers of the company. Each application will have several prerequisite applications and services installed.
+   You need to recommend a cloud deployment solution for all the applications.
+   What should you recommend?
+   C. Infrastructure as a Service (laaS)
+
+52.Azure Cosmos DB is an example of  Platform as aservice(PaaS) offering.
+                                     --------------------------
+53.Your company plans to migrate all its data and resources to Azure.
+   The company's migration plan states that only Platform as a Service (PaaS) solutions must be used in Azure.
+   You need to deploy an Azure environment that meets the company's migration plan.
+   C. an Azure App Service and Azure SQL databases.
+
+54.you plan to deploy 20 vitrual machines to an azure environment. To ensure that a virtual machine named VM1 cannot connect to the other virtual machines, VM1 must be deployed to a seperate virtual network
+                                                                                                                                                                     -----------------------------------------
+55.when you need to delegate permissions to several Azure virtual machines simultaneously, you must deploy the azure virtual machines to the same resource group
+                                                                                                                                      ---------------------------
+56.You plan to deploy several Azure virtual machines.
+   You need to ensure that the services running on the virtual machines are available if a single data center fails.
+   Solution: You deploy the virtual machines to two or more availability zones.
+   Does this meet the goal? 
+   A. Yes
+
+57.This question requires that you evaluate the underlined text to determine if it is correct.
+   One of the benefits of Azure SQL Data Warehouse is that high availability is built into the platform.
+   Instructions: Review the underlined text. If it makes the statement correct, select “No change is needed”. If the 
+   statement is incorrect, select the answer choice that makes the statement correct
+   A. No changes is needed
+
+58.You plan to deploy several Azure virtual machines.
+   You need to ensure that the services running on the virtual machines are available if a single data center fails.
+   Solution: You deploy the virtual machines to two or more regions.
+   Does this meet the goal?
+   A.Yes
+
+59.You plan to store 20 TB of data in Azure. The data will be accessed infrequently and visualized by using Microsoft Power 
+   BI. You need to recommend a storage solution for the data.
+   Which two solutions should you recommend? Each correct answer presents a complete solution.
+   A. Azure Data Lake
+   C. Azure SQL Data Warehouse
+
+60. You need to identify the type of failure for which an Azure Availability Zone can be used to protect access to Azure services.
+    What should you identify?
+    D. an Azure data center failure
+
+61.You plan to extend your company's network to Azure. The network contains a VPN appliance that uses an IP address of 131.107.200.1.
+   You need to create an Azure resource that defines the VPN appliance in Azure.
+   Which Azure resource should you create? To answer, select the appropriate resource in the answer area.
+   Ans:-Local network gateways
+
+62.You plan to deploy several Azure virtual machines.
+   You need to ensure that the services running on the virtual machines are available if a single data center fails.
+   Solution: You deploy the virtual machines to two or more resource groups.
+   Does this meet the goal?
+   B. NO
+
+63.You plan to deploy several Azure virtual machines.
+   You need to ensure that the services running on the virtual machines are available if a single data center fails.
+   Solution: You deploy the virtual machines to a scale set.
+   Does this meet the goal?
+   B.No
+
+64.This question requires that you evaluate the underlined text to determine if it is correct.
+   Resource groups provide organizations with the ability to manage the compliance of Azure resources across multiple subscriptions.
+   Instructions: Review the underlined text. If it makes the statement correct, select “No change is needed”. If the 
+   statement is incorrect, select the answer choice that makes the statement correct
+   B. Management groups
+
+65.Your company plans to migrate to Azure. The company has several departments. All the Azure resources used 
+   by each department will be managed by a department administrator.
+   What are two possible techniques to segment Azure for the departments? Each correct answer presents a complete solution.
+   A. multiple subscriptions
+   D. multiple resource groups
+
+66.You have several virtual machines in an azure subscription.
+   you create new subscription
+   Ans:- The virtual machines can be moved to the new subscription.
+
+67.You have an Azure environment that contains multiple Azure virtual machines.
+   You plan to implement a solution that enables the client computers on your on-premises network to 
+   communicate to the Azure virtual machines.
+   You need to recommend which Azure resources must be created for the planned solution.
+   Which two Azure resources should you include in the recommendation? Each correct answer presents part of the solution.
+   NOTE: Each correct selection is worth one point.
+   A. a virtual network gateway
+   E. a gateway subnet
+
+68.You attempt to create several managed Microsoft SQL Server instances in an Azure environment and receive a 
+   message that you must increase your Azure subscription limits.
+   What should you do to increase the limits?
+   D. Create a new support request
+
+69.You plan to create an Azure virtual machine.
+   You need to identify which storage service must be used to store the unmanaged data disks of the virtual machine.
+   What should you identify? To answer, select the appropriate service in the answer area.
+   Ans:- Containers
+
+70.Your company plans to move several servers to Azure.
+   The company's compliance policy states that a server named FinServer must be on a separate networksegment.
+   You are evaluating which Azure services can be used to meet the compliance policy requirements.
+   Which Azure solution should you recommend?
+   B. a virtual network for FinServer and another virtual network for all the other servers
+
+71.You plan to map a network drive from several computers that run Windows 10 to Azure Storage.
+   You need to create a storage solution in Azure for the planned mapped drive.
+   What should you create?
+   C. a Files service in a storage account
+
+72.You plan to implement an Azure database solution.
+   You need to implement a database solution that meets the following requirements:
+   ✑ Can add data concurrently from multiple regions
+   ✑ Can store JSON documents
+  Which database service should you deploy? To answer, select the appropriate service in the answer area.
+  Ans:- Azure Cosmos DB
+
+73.Your company plans to migrate all its network resources to Azure.
+   You need to start the planning process by exploring Azure.
+   What should you create first?
+   A. a subscription
+
+74.data that is stored in the archive access tier of an azure strage account must be rehydrated before the data can be accessed
+                                                                             --------------------------------------------------
+75.You plan to deploy a critical line-of-business application to Azure.
+   The application will run on an Azure virtual machine.
+   You need to recommend a deployment solution for the application. The solution must provide a guaranteed availability of 99.99 percent.
+   What is the minimum number of virtual machines and the minimum number of availability zones you should recommend for the deployment? To answer, select the appropriate options in the answer area.
+   NOTE: Each correct selection is worth one point   
+   Ans:- Minimum number of virtual machines 2
+         Minimum number of availability zones 2 
+
+76.Which Azure service should you use to collect events from multiple resources into a centralized repository?
+   A. Azure Event Hubs 
+
+77.An Availability zones in azure has physically seperate locations within a single azure region
+                                                                    ---------------------------- 
+78.You plan to deploy several Azure virtual machines.
+   You need to ensure that the services running on the virtual machines are available if a single data center fails.
+   Solution: You deploy the virtual machines to two or more scale sets.
+   Does this meet the goal? 
+   B. No
+
+79.You need to be notified when Microsoft plans to perform maintenance that can affect the resources deployed to an Azure subscription.
+   B. Azure Service Health  
+
+80.The azure total cost of ownership (TCO) Calculator, can calculate cost savings due to redused electricity consumption as a result of migrating on-premises microsoft Sql server to azure.
+   --------------------------------------------------        
+
+81.An Azure region contains one or more data centers that are connected by using a low-latency network.
+   Instructions: Review the underlined text. If it makes the statement correct, select “No change is needed”. If the 
+   statement is incorrect, select the answer choice that makes the statement correct    
+   A. No change is needed     
+
+82.You plan to deploy several Azure virtual machines.
+   You need to ensure that the services running on the virtual machines remain available if a single data center fails.
+   A. Deploy the virtual machines to two or more availability zones.
+   D. Deploy the virtual machines to two or more regions.
+
+83.You have an Azure subscription named Subscription1. You sign in to the Azure portal and create a resource group named RG1.
+   From Azure documentation, you have the following command that creates a virtual machine named VM1. az vm create --
+   resource-group RG1 --name VM1 --image UbuntuLTS --generate-ssh-keys
+   You need to create VM1 in Subscription1 by using the command.
+   Solution: From the Azure portal, launch Azure Cloud Shell and select Bash. Run the command in Cloud Shell.
+   Does this meet the goal? 
+   A. Yes    
+
+84.Your company has several business units.
+   Each business unit requires 20 different Azure resources for daily operation. All the business units require the same type of Azure resources.
+   You need to recommend a solution to automate the creation of the Azure resources.
+   What should you include in the recommendations? 
+   A.Azure resource manager templates  
+
+85.A team of developers at your company plans to deploy, and then remove, 50 customized virtual machines each week. 
+   Thirty of the virtual machines run Windows
+   Server 2016 and 20 of the virtual machines run Ubuntu Linux.
+   You need to recommend which Azure service will minimize the administrative effort required to deploy and remove the virtual machines.
+   What should you recommend?
+   C. Azure DevTest Labs
+
+86.A support engineer plans to perform several Azure management tasks by using the Azure CLI.
+   You install the CLI on a computer.
+   You need to tell the support engineer which tools to use to run the CLI.
+   Which two tools should you instruct the support engineer to use? Each correct answer presents a complete solution.  
+   A. Command Prompt
+   C. Windows PowerShell
+
+87.You have an Azure environment. You need to create a new Azure virtual machine from a tablet that runs the Android operating system.
+   Solution: You use PowerShell in Azure Cloud Shell.
+   A. Yes
+
+88.You have an Azure environment. You need to create a new Azure virtual machine from a tablet that runs the Android operating system.
+   Solution: You use the PowerApps portal.
+   B. No
+
+89.You have an Azure environment. You need to create a new Azure virtual machine from a tablet that runs the Android operating system.
+   Solution: You use the Azure portal.
+   A.Yes
+
+90.Azure Databricks, is an Apache spark-based analytics service.
+   ----------------
+91.Which Azure service provides a set of version control tools to manage code?
+   A.Azure Repos
+
+92.You have a virtual machine named VM1 that runs Windows Server 2016. VM1 is in the East US Azure region.
+   Which Azure service should you use from the Azure portal to view service failure notifications that can affect the availability of VM1?
+   B. Azure monitor
+
+93.An Azure administrator plans to run a PowerShell script that creates Azure resources.
+   You need to recommend which computer configuration to use to run the script.
+   Solution: Run the script from a computer that runs Linux and has the Azure CLI tools installed.
+   B. No
+
+94.An Azure administrator plans to run a PowerShell script that creates Azure resources. You need to recommend which 
+   computer configuration to use to run the script.
+   Solution: Run the script from a computer that runs Chrome OS and uses Azure Cloud Shell.
+   Does this meet the goal?
+   A. Yes
+   
+95.An Azure administrator plans to run a PowerShell script that creates Azure resources.
+   You need to recommend which computer configuration to use to run the script.
+   Solution: Run the script from a computer that runs macOS and has PowerShell Core 6.0 installed.
+   B.No
+
+96.You need to view a list of planned maintenance events that can affect the availability of an Azure subscription.
+   Which blade should you use from the Azure portal?
+   Ans:- 'Help + Support'
+
+97.You have an Azure environment. You need to create a new Azure virtual machine from a tablet that runs the Android operating system.
+   Solution: You use Bash in Azure Cloud Shell.
+   A. Yes
+
+98.You have an on-premises application that sends email notifications automatically based on a rule. You plan to migrate 
+   the application to AZURE. You need to recommend a serverless computing solution for the application. 
+   C.a logic app
+
+99.A team of developers at your company plans to deploy, and then remove, 50 virtual machines each week. All the virtual 
+   machines are configured by using Azure Resource Manager templates. You need to recommend which Azure service 
+   will minimize the administrative effort required to deploy and remove the virtual machines.
+   B. Azure DevTest Labs
+
+100.From Azure documentation, you have the following command that creates a virtual machine named VM1. az vm create --
+    resource-group RG1 --name VM1 --image UbuntuLTS --generate-ssh-keys
+    You need to create VM1 in Subscription1 by using the command
+    Solution: From the Azure portal, launch Azure Cloud Shell and select PowerShell. Run the command in Cloud Shell
+    A.Yes
+
+101.You have an Azure subscription named Subscription1. You sign in to the Azure portal and create a resource group named RG1.
+    From Azure documentation, you have the following command that creates a virtual machine named VM1. az vm create --
+    resource-group RG1 --name VM1 --image UbuntuLTS --generate-ssh-keys
+    You need to create VM1 in Subscription1 by using the command.
+    Solution: From a computer that runs Windows 10, install Azure CLI. From PowerShell, sign in to Azure and then run the command.
+    A.Yes
+
+102. From Azure documentation, you have the following command that creates a virtual machine named VM1. az vm create --
+     resource-group RG1 --name VM1 --image UbuntuLTS --generate-ssh-keys
+     You need to create VM1 in Subscription1 by using the command.
+     Solution: From a computer that runs Windows 10, install Azure CLI. From a command prompt, sign in to Azure and then run the command.
+     A. Yes
+103.Several support engineers plan to manage Azure by using the computers shown in the following table:
+    windows10- The azure CLi, the azure portal, and azure power shell
+    ubuntu- The azure cli,the azure portal, and azure powershell
+    MacOS Mojave-The azure cli,the azure portal, and azure powershell
+
+104. You can access compliance manager from the Microsoft 365 admin center
+                                                --------------------------
+105.Azure resource manager templates provide, a common platform for deploying objects to closed infrastructure and for implementing consistency across the Azure environment.
+    -----------------------------------------
+106.An Azure administrator plans to run a PowerShell script that creates Azure resources.
+    You need to recommend which computer configuration to use to run the script.
+    Solution: Run the script from a computer that runs Windows 10 and has the Azure PowerShell module installed.
+    A. Yes
+
+107.Which service provides serverless computing in Azure?
+    B. Azure Functions
+
+108.An Azure administrator plans to run a PowerShell script that creates Azure resources. You need to recommend which 
+    computer configuration to use to run the script. Which three computers can run the script? Each correct answer presents a complete solution.
+    B. a computer that runs Windows 10 and has the Azure PowerShell module installed.
+    C. a computer that runs Linux and has the Azure PowerShell module installed.
+    E. a computer that runs Chrome OS and uses Azure Cloud Shell.
+
+109.You need to configure an Azure solution that meets the following requirements:
+    Secures websites from attacks -
+   ✑ Generates reports that contain details of attempted attacks
+   D.DDoS protection
+
+110.Monitor threats by using sensors: Azure advanced threat protection(ATP)
+                                      -------------------------------------
+111.Enforce Azure MFA based on a condition: Azure active directory(Azure AD)Identity protection
+                                            ---------------------------------------------------
+112.Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named 
+    VM1 is accessible from the Internet over HTTP.
+    B. Modify a network security group (NSG)
+    D. Modify an Azure firewall
+
+113.you can enable just in time(jit)VM access by using Azure security center
+                                                       --------------------- 
+114.You have an Azure environment that contains 10 virtual networks and 100 virtual machines. You need to limit the 
+    amount of inbound traffic to all the Azure virtual networks
+    D. one Azure firewall
+
+115.Azure Key Vault is used to store secrets for Azure Active Directory (Azure AD) user accounts.
+    Instructions: Review the underlined text. If it makes the statement correct, select “No change is needed”. If the
+    D. server applications
+
+116.Your company plans to automate the deployment of servers to Azure. Your manager is concerned that you may expose 
+    administrative credentials during the deployment. You need to recommend an Azure solution that encrypts the 
+    administrative credentials during the deployment.
+    A. Azure Key Vaul
+
+117.You plan to deploy several Azure virtual machines. You need to control the ports that devices on the Internet can use to 
+    access the virtual machines.
+    A. a network security group (NSG)
+
+118.After you creat a virtual machine. you need to modify the network security group(NSG) to allow connections to TCP port 8080 on the virtual machine.
+                                                              ---------------------------
+119.Your Azure environment contains multiple Azure virtual machines.
+    You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP.
+    Solution: You modify a network security group (NSG).
+    A.yes
+
+120.Your Azure environment contains multiple Azure virtual machines.
+    You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP.
+    Solution: You modify a DDoS protection plan.
+    B.No
+
+121.You need to collect and automatically analyze security events from Azure Active Directory (Azure AD).
+    A. Azure Sentine
+
+122.Your Azure environment contains multiple Azure virtual machines.
+    You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP.
+    Solution: You modify an Azure firewal
+    A.yes
+
+123.Your Azure environment contains multiple Azure virtual machines.
+    You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP.
+    Solution: You modify an Azure Traffic Manager profile.
+    B.No
+
+124.Your company plans to deploy several web servers and several database servers to Azure.
+    You need to recommend an Azure solution to limit the types of connections from the web servers to the database servers.
+    A. network security groups (NSGs)
+
+125.From Azure activity Log you can view which user turned off a specific virtual machine during the last 14 days.
+         ------------------
+126.Which service provides network traffic filtering across multiple Azure subscriptions and virtual networks?
+    A. Azure Firewall
+
+128.Which Azure service should you use to store certificates?
+    C. Azure Key Vault
+
+129.Which Azure service can you use as a security information and event management (SIEM) solution?
+    B. Azure Sentinel
+
+130.What can Azure Information Protection encrypt?
+    B. documents and email messages
+
+131.What should you use to evaluate whether your company's Azure environment meets regulatory requirements?
+    C. Compliance Manager from the Service Trust Portal
+
+132.your company implements Azure information protection automatically add a watermark to microsoft word documents that contain credit card information.
+                            ----------------------------
+133.you have azure virtualnetwork named VNET1 ina resource group named RG1.
+    you assignthe azure policy defination of not allowed resource.
+    type and specific that virtual networks are not an allowed resource type in RG1, VNET1  Continues to function normally
+                                                                                            ------------------------------
+134.Your company has an Azure subscription that contains resources in several regions.
+    A company policy states that administrators must only be allowed to create additional Azure resources in a region in the 
+    country where their office is located.
+    You need to create the Azure resource that must be used to meet the policy requirement
+    B. an Azure policy
+
+135.From Azure Cloud Shell, you can track your company's regulatory standards and regulations, such as ISO 27001.
+    Instructions: Review the underlined text. If it makes the statement correct, select “No change is needed” If the statement 
+    is incorrect, select the answer choice that makes the statement correct.
+    D. the Trust Center
+
+136.The microsoft oline services privacy statement explains what data microsoft process. how microsoft process tha deta and the propose of processing the data
+        ------------------------------------------
+
+137.Authentication is the process of verifying a users creduntials.
+    --------------
+138.An azure policy initiative defination is a collection of policy definations
+                                                -------------------------------
+139.Management groups , provide organizations with tha abilty to manage the compliance of azure resources across multiple subscriptions.
+    -----------------
+140.Your company plans to migrate all on-premises data to Azure.
+    You need to identify whether Azure complies with the company's regional requirements
+    D. the Trust Center
+
+141.If a resource group named RG1 has a delete lock the delete lock must be removed before an administrator can delete RG1
+                                                    -------------------------------------------------------
+142.Azure Germany can be used by legal residents of Germany only.
+    Instructions: Review the underlined text. If it makes the statement correct, select “No change is needed”. If the 
+    statement is incorrect, select the answer choice that makes the statement correct 
+    D. any user or enterprise that requires its data to reside in Germany  
+
+143. you can view your company's regulatory compliance report from Azure Security center
+                                                                   ----------------------
+144.What should you use to evaluate whether your company's Azure environment meets regulatory requirements?
+    C. Azure Security Center
+
+145.Your company has an Azure subscription that contains resources in several regions.
+    You need to ensure that administrators can only create resources in those regions. 
+    B. an Azure policy
+
+146.Which two types of customers are eligible to use Azure Government to develop a cloud solution? Each correct answer presents a complete solution
+    C. a United States government entity
+    D. a United States government contractor
+
+147.You need to ensure that when Azure Active Directory (Azure AD) users connect to Azure AD from the Internet by using an 
+    anonymous IP address, the users are prompted automatically to change their password.
+    D. Azure AD Identity Protection
+
+149.To what should an application connect to retrieve security tokens?
+    D. an Azure key vault
+
+150.Your network contains an Active Directory Forest. The forest contains 5,000 user accounts.
+    Your company plans. to migrate all network resources to Azure and to decommission the on-premises data center
+    You need to recommend a solution to minimize the impact on users after the planned migration.
+    What should you recommend?
+    B. Sync all the Active Directory user accounts to Azure Active Directory (Azure AD)
+
+151.You have a resource group named RG1.
+    You need to prevent the creation of virtual machines only in RG1. The solution must ensure that other objects can be created in RG1.
+    D. an Azure policy
+
+152.you deploy an azure resource. the resource becomes unavailable for an extended period due to a service outage microsoft will Credit your azure account
+                                                                                                                                 --------------------------
+153.Which task can you perform by using Azure Advisor?
+    C. Confirm that Azure subscription security follows best practices.
+
+154.Your company has 10 offices. You plan to generate several billing reports from the Azure portal. 
+    Each report will contain the Azure resource utilization of each office.    
+    A.tags
+
+155.If Microsoft plans to end support for an Azure service that does NOT have a successor service, Microsoft will provide notification at least 12 months before.
+    Instructions: Review the underlined text. If it makes the statement correct, select “No change is needed”. If the 
+    statement is incorrect, select the answer choice that makes the statement correct.
+    A. No change is needed
+
+156.Your company has an Azure subscription that contains the following unused resources:
+    ✑ 20 user accounts in Azure Active Directory (Azure AD)
+    ✑ Five groups in Azure AD
+    ✑ 10 public IP addresses
+    ✑ 10 network interfaces
+    You need to reduce the Azure costs for the company.
+    B. No
+
+157.Your company has an Azure subscription that contains the following unused resources:
+    20 user accounts in Azure Active Directory (Azure AD)
+    ✑ Five groups in Azure AD
+    ✑ 10 public IP addresses
+    ✑ 10 network interfaces
+    You need to reduce the Azure costs for the company.
+    Solution: You remove the unused public IP addresses.
+    A. Yes
+
+158.Your company has an Azure subscription that contains the following unused resources:
+    ✑ 20 user accounts in Azure Active Directory (Azure AD)
+    ✑ Five groups in Azure AD
+    ✑ 10 public IP addresses
+    ✑ 10 network interfaces
+    You need to reduce the Azure costs for the company.
+    Solution: You remove the unused user accounts.
+    B. No
+
+159.How should you calculate the monthly uptime percentage? To answer, select the appropriate options in the answer area.
+    Ans:-Maximum available minutes-Downtime in minutes,  maximum available minutes, 100
+
+160.In which Azure support plans can you open a new support request?
+    D. Premier, Professional Direct, Standard, Developer, and Basic
+
+161.You can create an Azure support request from support.microsoft.com.
+    Instructions: Review the underlined text. If it makes the statement correct, select “No change is needed”. If the 
+    statement is incorrect, select the answer choice that makes the statement correct
+    B. the azure portal
+
+162.Your company has an Azure subscription that contains the following unused resources:
+    ✑ 20 user accounts in Azure Active Directory (Azure AD)
+    ✑ Five groups in Azure AD
+    ✑ 10 public IP addresses
+    ✑ 10 network interfaces
+    You need to reduce the Azure costs for the company.
+    Solution: You remove the unused groups.
+    B. No
+
+163.The Azure Standard support plan is the lowest cost option to receive 24x7 access to support engineers by phone.
+    Instructions: Review the underlined text. If it makes the statement correct, select “No change is needed”. If the 
+    statement is incorrect, select the answer choice that makes the statement correct.
+    A. No change is needed
+
+164.All azure services that are in public preview are Excluded from the service level agreements
+                                                      -------------------------------------------
+165.What is guaranteed in an Azure Service Level Agreement (SLA) for virtual machines?
+    A. uptime
+
+166.An azure service is available to all azure customers when it is in Public preview
+                                                                       --------------
+167.Your company plans to purchase an Azure subscription.
+    The company's support policy states that the Azure environment must provide an option to access support engineers 
+    by phone or email.
+    You need to recommend which support plan meets the support policy requirement.
+    Solution: Recommend a Basic support plan.
+    B No
+
+168.The company's support policy states that the Azure environment must provide an option to access support engineers by phone or email.
+    You need to recommend which support plan meets the support policy requirement.
+    Solution: Recommend a Standard support plan
+    A. Yes
+
+169.Your company plans to purchase an Azure subscription.
+    The company's support policy states that the Azure environment must provide an option to access support engineers by phone or email.
+    You need to recommend which support plan meets the support policy requirement.
+    Solution: Recommend a Premier support plan.
+    A. yes
+
+170.Your company plans to request an architectural review of an Azure environment from Microsoft.
+    The company currently has a Basic support plan.
+    You need to recommend a new support plan for the company. The solution must minimize costs.
+    Which support plan should you recommend?
+    A.Premier
+
+171.What is required to use Azure Cost Management?
+    D. a pay-as-you-go subscription
+
+172.your azure trialaccount expired last week you are now unable to start an existing zure virtual machine
+                                                                    --------------------------------------
+173.Your company plans to purchase an Azure subscription.
+    The company's support policy states that the Azure environment must provide an option to access support engineers by phone or email.
+    You need to recommend which support plan meets the support policy requirement.
+    Solution: Recommend a Professional Direct support plan.
+    Does this meet the goal?
+    A. yes
+
+174.Your company has a Software Assurance agreement that includes Microsoft SQL Server licenses.
+    You plan to deploy SQL Server on Azure virtual machines.
+    What should you do to minimize licensing costs for the deployment?
+    B. Use Azure Hybrid Benefit
+
+175.Your company has 10 departments.
+    The company plans to implement an Azure environment.
+    You need to ensure that each department can use a different payment option for the Azure services it consumes.
+    What should you create for each department?
+    B. a subscription
+
+176.the composite SLA for the application is the product of both SLA's, which equals 99.94 percent
+                                             -----------------------------------------------------
+177.Which statement accurately describes the Modern Lifecycle Policy for Azure services?
+    B. Microsoft provides a minimum of 12 months' notice before ending support for a service.
+
+178.You need to request that Microsoft increase a subscription quota limit for your company.
+    Help + Support
+
+179.you can use Budget alerts in azure to send email alerts when the cost of the current.
+                --------------  
+180.What are two benefits of cloud computing?
+    A. enables the rapid provisioning of resources
+    D. shifts capital expenditures (CAPEX) to operating expenditures (OPEX)     
+
+181.What is a feature of an Azure virtual network?
+    D. isolation and segmentation
+
+182.Which cloud computing benefit provides continuous user access to a cloud-based application with minimal downtime?
+    D. high availability  
+
+183.You need to purchase a third-party virtual security appliance that you will deploy to an Azure subscription.What should you use?
+    C. Azure Marketplace 
+
+184.Your company has datacenters in Los Angeles and New York. The company has a Microsoft Azure subscription.
+    You are configuring the two datacenters as geo-clustered sites for site resiliency.
+    You need to recommend an Azure storage redundancy option.
+    You have the following data storage requirements:
+    ✑ Data must be stored on multiple nodes.
+    ✑ Data must be stored on nodes in separate geographic locations.
+    ✑ Data can be read from the secondary location as well as from the primary location
+    Which of the following Azure stored redundancy options should you recommend?     
+    B. Read-only geo-redundant storage
+
+185.Your company's Azure subscription includes a Basic support plan.
+    They would like to request an assessment of an Azure environment's design from Microsoft. This is, however, 
+    not supported by the existing plan.
+    You want to make sure that the company subscribes to a support plan that allows this functionality, while 
+    keeping expenses to a minimum.
+    Solution: You recommend that the company subscribes to the Professional Direct support plan.
+    Does the solution meet the goal?
+    B.No
+
+187.You are tasked with deploying Azure virtual machines for your company.
+    You need to make use of the appropriate cloud deployment solution.
+    Solution: You should make use of Software as a Service (SaaS).
+    Does the solution meet the goal?
+    B.No
+
+188.You are tasked with deploying Azure virtual machines for your company.
+    You need to make use of the appropriate cloud deployment solution.
+    Solution: You should make use of Platform as a Service (PaaS).
+    Does the solution meet the goal?
+    B.NO
+
+189.You are tasked with deploying Azure virtual machines for your company.
+    You need to make use of the appropriate cloud deployment solution.
+    Solution: You should make use of Infrastructure as a Service (IaaS).
+    Does the solution meet the goal?
+    A. Yes
+
+190.Your developers have created 10 web applications that must be host on Azure.
+    You need to determine which Azure web tier plan to host the web apps. The web tier plan must meet the following requirements:
+    ✑ The web apps will use custom domains.
+    ✑ The web apps each require 10 GB of storage.
+    ✑ The web apps must each run in dedicated compute instances.
+    ✑ Load balancing between instances must be included.
+    ✑ Costs must be minimized.
+    Which web tier plan should you use?
+    A. Standard
+
+191.You are planning to migrate a company to Azure. Each of the company's numerous divisions will have an 
+    administrator in place to manage the Azure resources used by their respective division.
+    You want to make sure that the Azure deployment you employ allows for Azure to be segmented for the 
+    divisions, while keeping administrative effort to a minimum.
+    Solution: You plan to make use of several Azure Active Directory (Azure AD) directories.
+    Does the solution meet the goal?
+    B. No
+
+192.Your developers have created a portal web app for users in the Miami branch office. The web app will be 
+    publicly accessible and used by the Miami users to retrieve customer and product information. The web app is 
+    currently running in an on-premises test environment.
+    You plan to host the web app on Azure.
+    You need to determine which Azure web tier plan to host the web app. The web tier plan must meet the following requirements:
+    ✑ The website will use the miami.weyland.com URL.
+    ✑ The website will be deployed to two instances.
+    ✑ SSL support must be included.
+    ✑ The website requires 12 GB of storage.
+    ✑ Costs must be minimized.
+    Which web tier plan should you use?
+    A. Standard
+
+193.Your company is planning to migrate all their virtual machines to an Azure pay-as-you-go subscription. The 
+   virtual machines are currently hosted on the Hyper-V hosts in a data center.
+   You are required make sure that the intended Azure solution uses the correct expenditure model.
+   Solution: You should recommend the use of the elastic expenditure model.
+   Does the solution meet the goal?
+   B.No
+
+194.Your company is planning to migrate all their virtual machines to an Azure pay-as-you-go subscription. The 
+    virtual machines are currently hosted on the Hyper-V hosts in a data center.
+    You are required make sure that the intended Azure solution uses the correct expenditure model.
+    Solution: You should recommend the use of the scalable expenditure model.
+    Does the solution meet the goal?
+    B. No
+
+195.Your company is planning to migrate all their virtual machines to an Azure pay-as-you-go subscription. The 
+    virtual machines are currently hosted on the Hyper-V hosts in a data center.
+    You are required make sure that the intended Azure solution uses the correct expenditure model.
+    Solution: You should recommend the use of the operational expenditure model.
+    Does the solution meet the goal?
+    A.Yes
+
+196.You are required to deploy an Artificial Intelligence (AI) solution in Azure.
+    You want to make sure that you are able to build, test, and deploy predictive analytics for the solution.
+    Solution: You should make use of Azure Cosmos DB.
+    Does the solution meet the goal?
+    B.NO
+
+197.Your company's Active Directory Forest includes thousands of user accounts.
+    You have been informed that all network resources will be migrated to Azure. Thereafter, the on-premises data center will be retired.
+     You are required to employ a strategy that reduces the effect on users, once the planned migration has been completed.
+     Solution: You plan to sync all the Active Directory user accounts to Azure Active Directory (Azure AD).
+    Does the solution meet the goal?
+    A.yes
+
+198.You are required to deploy an Artificial Intelligence (AI) solution in Azure.
+    You want to make sure that you are able to build, test, and deploy predictive analytics for the solution.
+    Solution: You should make use of Azure Machine Learning Studio.
+    Does the solution meet the goal?
+    A.Yes
+
+199.Your company's infrastructure includes a number of business units that each need a large number of various 
+    Azure resources for everyday operation.
+    The resources required by each business unit are identical.
+    You are required to sanction a strategy to create Azure resources automatically.
+    Solution: You recommend that the Azure API Management service be included in the strategy.
+    Does the solution meet the goal?
+    B. NO
+
+200.Your company's infrastructure includes a number of business units that each need a large number of various 
+    Azure resources for everyday operation.
+    The resources required by each business unit are identical.
+    You are required to sanction a strategy to create Azure resources automatically.
+    Solution: You recommend that management groups be included in the strategy.
+    Does the solution meet the goal?
+    B.NO
+
+201.Your company's infrastructure includes a number of business units that each need a large number of various 
+    Azure resources for everyday operation.
+    The resources required by each business unit are identical.
+    You are required to sanction a strategy to create Azure resources automatically.
+    Solution: You recommend that the Azure Resource Manager templates be included in the strategy.
+    Does the solution meet the goal?
+    A. Yes
+
+202.You are tasked with deploying a critical LOB application, which will be installed on a virtual machine, to Azure.
+    You are informed that the application deployment strategy should allow for a guaranteed availability of 99.99 
+    percent. You need to make sure that the strategy requires as little virtual machines and availability zones as possible.
+    Solution: You include two virtual machines and one availability zone in your strategy.
+    Does the solution meet the goal?
+    B.No
+
+203.You are tasked with deploying a critical LOB application, which will be installed on a virtual machine, to Azure.
+    You are informed that the application deployment strategy should allow for a guaranteed availability of 99.99 
+    percent. You need to make sure that the strategy requires as little virtual machines and availability zones as possible.
+    Solution: You include one virtual machine and two availability zones in your strategy.
+    Does the solution meet the goal?
+    B. NO
+
+204.Your company's developers intend to deploy a large number of custom virtual machines on a weekly basis. 
+    They will also be removing these virtual machines during the same week it was deployed. Sixty percent of the 
+    virtual machines have Windows Server 2016 installed, while the other forty percent has Ubuntu Linux installed.
+    You are required to make sure that the administrative effort, needed for this process, is reduced by employing a suitable Azure service.
+    Solution: You recommend the use of Microsoft Managed Desktop.
+    Does the solution meet the goal?
+    B.No
+
+205.Your company's developers intend to deploy a large number of custom virtual machines on a weekly basis. 
+    They will also be removing these virtual machines during the same week it was deployed. Sixty percent of the 
+    virtual machines have Windows Server 2016 installed, while the other forty percent has Ubuntu Linux installed.
+    You are required to make sure that the administrative effort, needed for this process, is reduced by employing a suitable Azure service.
+    Solution: You recommend the use of Azure Reserved Virtual Machines (VM) Instances.
+    Does the solution meet the goal?
+    B. NO
+
+206.Your company's developers intend to deploy a large number of custom virtual machines on a weekly basis. 
+    They will also be removing these virtual machines during the same week it was deployed. Sixty percent of the 
+    virtual machines have Windows Server 2016 installed, while the other forty percent has Ubuntu Linux installed.
+   You are required to make sure that the administrative effort, needed for this process, is reduced by employing a suitable Azure service.
+    Solution: You recommend the use of Azure DevTest Labs.
+    Does the solution meet the goal?
+    A. Yes
+
+207.Your company has virtual machines (VMs) hosted in Microsoft Azure. The VMs are located in a single Azure virtual network named VNet1.
+    The company has users that work remotely. The remote workers require access to the VMs on VNet1.
+    You need to provide access for the remote workers.
+    What should you do?
+    C. Configure a Point-to-Site (P2S) VPN.
+
+208.You have been informed by your superiors of the company's intentions to automate server deployment to 
+    Azure. There is, however, some concern that administrative credentials could be uncovered during this process.
+    You are required to make sure that during the deployment, the administrative credentials are encrypted using a suitable Azure solution.
+    Solution: You recommend the use of Azure Information Protection.
+    Does the solution meet the goal?
+    B.No
+
+209.You have been informed by your superiors of the company's intentions to automate server deployment to 
+    Azure. There is, however, some concern that administrative credentials could be uncovered during this process.
+    You are required to make sure that during the deployment, the administrative credentials are encrypted using a suitable Azure solution.
+    Solution: You recommend the use of Azure Multi-Factor Authentication (MFA).
+    Does the solution meet the goal?
+    B.NO
+
+210.Your company has an Azure Active Directory (Azure AD) environment. Users occasionally connect to Azure AD via the Internet.
+    You have been tasked with making sure that users who connect to Azure AD via the internet from an 
+    unidentified IP address, are automatically encouraged to change passwords.
+    Solution: You configure the use of Azure AD Identity Protection.
+    Does the solution meet the goal?
+    A. yes
+
+211.Your company has an Azure Active Directory (Azure AD) environment. Users occasionally connect to Azure AD via the Internet.
+    You have been tasked with making sure that users who connect to Azure AD via the internet from an 
+     unidentified IP address, are automatically encouraged to change passwords.
+     Solution: You configure the use of Azure AD Privileged Identity Management.
+     Does the solution meet the goal?
+     B.No
+
+212.You are planning a strategy to deploy numerous web servers and database servers to Azure.
+    This strategy should allow for connection types between the web servers and database servers to be controlled.
+    Solution: You include network security groups (NSGs) in your strategy.
+    Does the solution meet the goal?
+    A. Yes
+
+213.You are planning a strategy to deploy numerous web servers and database servers to Azure.
+    This strategy should allow for connection types between the web servers and database servers to be controlled.
+    Solution: You include a local network gateway in your strategy.
+    Does the solution meet the goal?
+    B. NO
+
+214.Your company's Active Directory Forest includes thousands of user accounts.
+    You have been informed that all network resources will be migrated to Azure. Thereafter, the on-premises data center will be retired.
+    You are required to employ a strategy that reduces the effect on users, once the planned migration has been completed.
+    Solution: You plan to require Azure Multi-Factor Authentication (MFA).
+    Does the solution meet the goal?
+    B. NO
+
+215.What does a customer provide in a software as a service (SaaS) model?
+    A. application data
+
+216.What is the first stage in the Microsoft Cloud Adoption Framework for Azure?
+    D. Define your strategy.
+
+217.You are tasked with deploying a critical LOB application, which will be installed on a virtual machine, to Azure.
+    You are informed that the application deployment strategy should allow for a guaranteed availability of 99.99 
+    percent. You need to make sure that the strategy requires as little virtual machines and availability zones as possible.
+    Solution: You include two virtual machines and two availability zones in your strategy.
+    Does the solution meet the goal?
+    A. Yes
+
+
+
+
+
+
+         
