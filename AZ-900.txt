@@ -1331,7 +1331,30 @@
     A. Yes
 
 
+>> Hi
+>> My self samba here 
+>> I am working as a DevOps engineer in the Kfintech organization.
+>> KFinTech is a RTA(Registrar and Transfer Agent) which maintains all the records for almost all Mutual Funds Companies in India.
+>> It is a SEBI Appointed RTA Which has 70% of market share, Only other being CAMS.
+>> KFintech and CAMS as a whole maintains records of all AMC(Asset Management Companies)
+>> Mostly 90 % of the frontend applications are .net based and we maintain all the code in Git.
+>> For code compilation and Deployment we use Azure DevOps Tool(ADO Server-On-Premises)
+>> I have around 5 years of experience in relevant cloud DevOps in 4 years. I have Experience in AWS, Azure, Terraform, Docker, K8s, Jenkins, Ansible, Python, Nagios, and git.
+>> I am familiar with Ubuntu and Windows.
+>> Currently In organization using different aws services.
+AWS services. (what services are you using in AWS?)
+>>EC2, S3, Loadbalancer, Rout53, Cloud formation, VPC, IAM, Dynamodb, Subnets, Autoscaling, SNS/SQS/SES, Cloudwatch, Cloud trail, Transit Gateway, Lambda, RDS, ELB, ECS/EKS, Cloud Front.
+>>Having 3 to 4 java applications. For CI-CD using different tools.
 
+   Github- Sourcecode management.
+   Git - Version control
+   Jenkins for CI-CD using declarative pipeline.
+   Sonarqube for code qality perpose.
+   maven for build the application.
+   jfrog for the to save the build artifacts.
+   Docker,
+   K8s,
+   nagios for monitoring
 
 
 
